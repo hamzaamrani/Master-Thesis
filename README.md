@@ -1,1 +1,8 @@
-# Master-Thesis
+# Master's Degree Thesis of Hamza Amrani
+
+## Abstract
+Current sensor-based Human Activity Recognition (HAR) techniques that rely on a user-independent model struggle to generalize to new users and on to changes that a person may do over time to his or her way of carrying out activities. Moreover, the performances of subject-independent models are proportional to the size and the variability of the dataset used to generate it. Incremental Learning is a technique that allows obtaining personalized models that may improve the classifiers' performance thanks to continuous Learning based on user data. However, continuous user interaction is essential to provide ground-truth labels but could harm his/her experience and fall into some incorrect data annotation.\\
+This work aims to: $i)$ combine Deep Learning techniques with incremental Learning to obtain personalized models that perform better concerning user-independent models and personalized models obtained using traditional machine learning techniques; $ii)$ homogenize existing and heterogeneous datasets into a common measurement configuration and standard annotation, in order to train an optimal user-independent model and to make available to the scientific community large datasets of homogeneous signals, enriched, when possible, with context information; $iii)$ define an Unsupervised end-to-end learning approach for the problem of HAR from mobile devices to annotate unlabelled data without user cooperation. The experimentations were done separately, for each proposed approach, by comparing the obtained results with similar methods in the literature and showed the effectiveness of Model-Centric and Data-Centric strategies applied to personalize models in Human Activity Recognition.
+
+## Contact me
+If you have any questions regarding my master's thesis, contact me at hamza.amrani@unimib.it
